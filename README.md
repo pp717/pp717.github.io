@@ -12,9 +12,6 @@ This is my 1st test github page
 #include <stdio.h>
 
 int main() {
-
-   printf("Hello, World! \n");
-   
+   printf("Hello, World! \n");  
    return 0;
 }
-'''
