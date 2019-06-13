@@ -2,13 +2,14 @@
 
 This is my 1st test github page
 
-<img src="/picme/mypic.png" alt="me" style="width:500px;"/>
+<img src="/picme/MyPic.PNG" alt="me" style="width:500px;"/>
 
 ทำงานหลายที่ 
 ช่วงนี้เดินอยู่แถวสยาม
 
 ## Hello World
 ```c
+
 #include <stdio.h>
 
 int main() {
